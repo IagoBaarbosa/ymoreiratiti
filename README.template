@@ -3,7 +3,6 @@
 ### Languages and Tools: 
 {{#languageAndTools}}
   [![{{label}}](https://raw.githubusercontent.com/ymoreiratiti/ymoreiratiti/main/assets/icons/{{icon}})]({{{url}}})
-
 {{/languageAndTools}}
 
 
