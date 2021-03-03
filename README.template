@@ -2,8 +2,16 @@
 
 ### Languages and Tools: 
 {{#languageAndTools}}
-  [![{{label}}](https://raw.githubusercontent.com/ymoreiratiti/ymoreiratiti/main/assets/icons/{{icon}})]({{{url}}})
+  [![{{label}}]({{{icon}}})]({{{url}}})
 {{/languageAndTools}}
+
+
+
+### Follow me around the web:
+{{#socialShare}}
+  [![{{label}}]({{{badge}}})]({{{url}}})
+{{/socialShare}}
+
 
 
 

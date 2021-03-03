@@ -14,6 +14,15 @@
 
 
 
+### Follow me around the web:
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yurititi13/)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ymoreiratiti/)
+  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/yurititi13)
+  [![Spotify](https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/12144027699)
+
+
+
+
 
 
 <!--
