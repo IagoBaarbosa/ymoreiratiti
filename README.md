@@ -1,16 +1,26 @@
 ### Hi there 👋
- 
+
 ### Languages and Tools: 
-![HTML5](https://raw.githubusercontent.com/ymoreiratiti/ymoreiratiti/main/assets/icons/001-php.png)
-![HTML5](https://raw.githubusercontent.com/ymoreiratiti/ymoreiratiti/main/assets/icons/003-css.png)
-![HTML5](https://raw.githubusercontent.com/ymoreiratiti/ymoreiratiti/main/assets/icons/005-mysql.png)
-![HTML5](https://raw.githubusercontent.com/ymoreiratiti/ymoreiratiti/main/assets/icons/007-docker.png)
-![HTML5](https://raw.githubusercontent.com/ymoreiratiti/ymoreiratiti/main/assets/icons/009-typescript.png)
-![HTML5](https://raw.githubusercontent.com/ymoreiratiti/ymoreiratiti/main/assets/icons/002-javascript.png)
-![HTML5](https://raw.githubusercontent.com/ymoreiratiti/ymoreiratiti/main/assets/icons/004-nodejs.png)
-![HTML5](https://raw.githubusercontent.com/ymoreiratiti/ymoreiratiti/main/assets/icons/006-html-5.png)
-![HTML5](https://raw.githubusercontent.com/ymoreiratiti/ymoreiratiti/main/assets/icons/008-github.png)
-![HTML5](https://raw.githubusercontent.com/ymoreiratiti/ymoreiratiti/main/assets/icons/010-composer.png)
+  [![PHP](https://raw.githubusercontent.com/ymoreiratiti/ymoreiratiti/main/assets/icons/php.png)](https://www.php.net/)
+
+  [![JavaScript](https://raw.githubusercontent.com/ymoreiratiti/ymoreiratiti/main/assets/icons/javascript.png)](https://www.w3schools.com/js)
+
+  [![CSS](https://raw.githubusercontent.com/ymoreiratiti/ymoreiratiti/main/assets/icons/css.png)](https://www.w3schools.com/css/)
+
+  [![Node.js](https://raw.githubusercontent.com/ymoreiratiti/ymoreiratiti/main/assets/icons/nodejs.png)](https://nodejs.org/)
+
+  [![MySQL](https://raw.githubusercontent.com/ymoreiratiti/ymoreiratiti/main/assets/icons/mysql.png)](https://www.mysql.com/)
+
+  [![HTML5](https://raw.githubusercontent.com/ymoreiratiti/ymoreiratiti/main/assets/icons/html-5.png)](https://www.w3schools.com/html/)
+
+  [![Docker](https://raw.githubusercontent.com/ymoreiratiti/ymoreiratiti/main/assets/icons/docker.png)](https://www.docker.com/)
+
+  [![GitHub](https://raw.githubusercontent.com/ymoreiratiti/ymoreiratiti/main/assets/icons/github.png)](https://github.com/)
+
+  [![TypeScript](https://raw.githubusercontent.com/ymoreiratiti/ymoreiratiti/main/assets/icons/typescript.png)](https://www.typescriptlang.org/)
+
+  [![Composer](https://raw.githubusercontent.com/ymoreiratiti/ymoreiratiti/main/assets/icons/composer.png)](https://getcomposer.org/)
+
 
 
 
