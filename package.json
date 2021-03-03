@@ -1,0 +1,28 @@
+{
+  "name": "ymoreiratiti",
+  "version": "1.0.0",
+  "description": "[![HTML5](https://raw.githubusercontent.com/ymoreiratiti/ymoreiratiti/main/assets/icons/004-nodejs.png)](https://nodejs.org)",
+  "main": "index.js",
+  "scripts": {
+    "build": "ts-node bin/updateReadme.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ymoreiratiti/ymoreiratiti.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ymoreiratiti/ymoreiratiti/issues"
+  },
+  "homepage": "https://github.com/ymoreiratiti/ymoreiratiti#readme",
+  "dependencies": {
+    "mustache": "^4.1.0"
+  },
+  "devDependencies": {
+    "@types/mustache": "^4.1.1",
+    "@types/node": "^14.14.31",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.2.2"
+  }
+}
